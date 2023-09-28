@@ -16,6 +16,8 @@ Entrada:
 Saída:
 - Uma lista contendo as análises de desempenho financeiro realizadas dentro do período especificado.
 
+Exemplos:
+
 1. Entrada:
 
 01/04/2023
